@@ -1,5 +1,8 @@
 body{
-  background-color: rgb(237, 182, 248);
+  background-color: rgb(234, 209, 238);
+  max-width: 640px;
+  margin-left: 320px;
+  margin-right: 320px;
 }
 
 #app {
@@ -9,7 +12,4 @@ body{
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
-  max-width: 640px;
-  margin-left: auto;
-  margin-right: auto;
 }
